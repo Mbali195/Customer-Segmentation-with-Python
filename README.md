@@ -1,10 +1,5 @@
 # Customer-Segmentation-with-Python
 Using customer data to segment customers
-Great, with that information, let's structure a README file for your Python project on customer segmentation:
-
----
-
-# Customer Segmentation with Python
 
 ## Project Overview
 The primary goal of this project is to leverage Python for obtaining valuable customer insights, aiding in the identification of specific customer groups that a retail company should prioritize. By analyzing key customer attributes, the project aims to understand their spending habits and demographic backgrounds.
