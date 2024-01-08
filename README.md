@@ -51,4 +51,3 @@ Future Improvements:
 
 ---
 
-Feel free to further refine or expand upon the README by adding any specific code snippets, visuals, or additional details you feel would benefit users interested in understanding and replicating your project.
